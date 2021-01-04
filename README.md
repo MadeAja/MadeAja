@@ -18,8 +18,6 @@
 
 [<code><img alt="Paypal" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtu0A0ei_zJNYA2SjujzpX1MFs4j348OIuNtQSj8JBOJuy-LCwx7CzuQ&s=10"/></code>](https://www.paypal.com/paypalme/yangserius)
 
-
-
 **My Stats:**
 
 [![My Stats](https://github-readme-stats.vercel.app//api?username=NaufalBlaze&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/MadeAja/)
@@ -27,6 +25,3 @@
 **My Langs:**
 
 [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeAja&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/MadeAja/)
-
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=MadeAja)](https://github.com/MadeAja)
