@@ -20,7 +20,7 @@
 
 **My Stats:**
 
-[![My Stats](https://github-readme-stats.vercel.app//api?username=NaufalBlaze&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/MadeAja/)
+[![My Stats](https://github-readme-stats.vercel.app//api?username=MadeAja&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/MadeAja/)
 
 **My Langs:**
 
